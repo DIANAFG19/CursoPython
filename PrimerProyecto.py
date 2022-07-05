@@ -1,1 +1,1 @@
-print("Hola Mundo, te digo 'Hola' ")
+print('Hola, me llamo ' + "\t{]Diana.\nY me dicen \"Dianix\"")
