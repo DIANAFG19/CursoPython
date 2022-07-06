@@ -1,1 +1,1 @@
-print('Hola, me llamo ' + "\t{]Diana.\nY me dicen \"Dianix\"")
+print("Hola, tu nombre es " + input("Dime tu nombre: ") + " " + input("Dime tu apellido: "))
