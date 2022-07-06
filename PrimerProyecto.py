@@ -1,1 +1,1 @@
-print("Hola, tu nombre es " + input("Dime tu nombre: ") + " " + input("Dime tu apellido: "))
+print("La cerveza se llama \n\"" + input("¿Cuál es tu película favorita? ") + " " + input("¿Cuál es el nombre de tu mascota?: ") + "\"")
