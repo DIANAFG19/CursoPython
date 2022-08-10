@@ -24,3 +24,6 @@ print("agua" not in poema)
 print("sol" not in poema)
 print("sol" in poema)
 
+# CALCULAR LONGITUD
+print(len(poema))
+
